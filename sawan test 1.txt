@@ -1,0 +1,69 @@
+1. function
+
+   function is command that use in javascript for passing multiple values and it excuted.
+   in java script we can call the function as many time as we want in command
+
+
+
+2.
+statement is a line of code .
+
+for exm. below the statement is
+
+var a = 5;
+
+
+3.
+
+loops are using to create repeatable tasks in java script
+
+in java script there is 3 types of loops
+1.for loop
+2.while loop
+3. for in loop
+
+
+4. variable is a container that stored values in java script.
+
+
+5.by usinng for loop we can declare & initialise a variable in single step.
+
+6.
+ 1.primitive data types 
+
+    1.boolean
+    2. null
+    3.undefined
+    4. symbol
+    5.string
+    6. bigind
+2. special data type
+
+    1.object
+
+7. unary operators
+
+  1.null
+  2.type of
+
+8.function square(number) {
+
+console.log(number);}
+
+number(10);
+
+square();
+
+9. it returns the properties that added in perticular class .
+
+
+10.  we should add multiple properties or value by using object it consumes time also. by using variable we add values for perticular variable so by using object we can define multiple values in one object.
+
+
+
+
+
+
+
+
+  
