@@ -41,6 +41,7 @@ in java script there is 3 types of loops
 
     1.object
 
+
 7. unary operators
 
   1.null
@@ -48,9 +49,8 @@ in java script there is 3 types of loops
 
 8.function square(number) {
 
-console.log(number);}
+}
 
-number(10);
 
 square();
 
